@@ -114,14 +114,15 @@ $(window).on('hashchange', function() {
 $("#collect-data-done").click(function() {
     location.hash = '#done';
 
-    var note_body = "onosm.org submitted note from a business:\n" +
+    var note_body = "Note submitted on bitcoinaccepted.in from a business that accepts bitcoin as payment method:\n" +
         "Name: " + $("#name").val() + "\n" +
         "Phone: " + $("#phone").val() + "\n" +
         "Website: " + $("#website").val() + "\n" +
         "Twitter: " + $("#twitter").val() + "\n" +
         "Hours: " + $("#opening_hours").val() + "\n" +
         "Category: " + $("#category").val() + "\n" +
-        "Address: " + $("#address").val(),
+        "Address: " + $("#address").val() + "\n" +
+        "Payment: bitcoin",
         latlon = findme_marker.getLatLng(),
         note_data = {
             lat: latlon.lat,
