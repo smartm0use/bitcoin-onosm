@@ -22,6 +22,8 @@
     "addressaltdesc": "Endereço",
     "name": "Nome",
     "nameplaceholder": "Papelaria Prátika",
+    "description": "Descrição",
+    "descriptionplaceholder": "Papelaria da cidade",
     "phone": "Numero de telefone",
     "phoneplaceholder": "+55 84 3219 0102",
     "opening": "Horário de funcionamento",

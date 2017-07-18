@@ -22,6 +22,8 @@
     "addressaltdesc": "Adresse",
     "name": "Name",
     "nameplaceholder": "Park Cafè",
+    "description": "Beschreibung",
+    "descriptionplaceholder": "Alte Stadt-Bar",
     "phone": "Telefonnummer",
     "phoneplaceholder": "+49 30 123456-78",
     "opening": "Öffnungszeiten",

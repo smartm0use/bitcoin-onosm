@@ -22,6 +22,8 @@
     "addressaltdesc": "Indirizzo",
     "name": "Nome",
     "nameplaceholder": "Bar Sport",
+    "description": "Descrizione",
+    "descriptionplaceholder": "Antico bar della città",
     "phone": "Numero di telefono",
     "phoneplaceholder": "+39 0123 456789",
     "opening": "Orario di apertura",

@@ -22,6 +22,8 @@
     "addressaltdesc": "Address",
     "name": "Name",
     "nameplaceholder": "Green Cafè",
+    "description": "Description",
+    "descriptionplaceholder": "Old bar of the city",
     "phone": "Phone number",
     "phoneplaceholder": "555-555-5555",
     "opening": "Opening Hours",
