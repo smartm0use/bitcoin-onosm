@@ -116,9 +116,10 @@ $("#collect-data-done").click(function() {
 
     var note_body = "Note submitted on bitcoinaccepted.in from a business that accepts bitcoin as payment method:\n" +
         "Name: " + $("#name").val() + "\n" +
+        "Description: " + $("#description").val() + "\n" +
         "Phone: " + $("#phone").val() + "\n" +
         "Website: " + $("#website").val() + "\n" +
-        "Twitter: " + $("#twitter").val() + "\n" +
+        "Social page: " + $("#social").val() + "\n" +
         "Hours: " + $("#opening_hours").val() + "\n" +
         "Category: " + $("#category").val() + "\n" +
         "Address: " + $("#address").val() + "\n" +
@@ -144,9 +145,10 @@ $("#collect-data-done").click(function() {
 
 function clearFields() {
     $("#name").val('');
+    $("#description").val('');
     $("#phone").val('');
     $("#website").val('');
-    $("#twitter").val('');
+    $("#social").val('');
     $("#opening_hours").val('');
     $("#category").val('');
     $("#address").val('');
