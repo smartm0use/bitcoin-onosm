@@ -1,6 +1,6 @@
 # [Bitcoin Accepted Here](https://www.bitcoinaccepted.in)
 
-An easy way to add a bitcoin venue on Bitcoin Accepted Here application (and on OpenStreetMap).
+An easy way to add a bitcoin venue or ATM on Bitcoin Accepted Here application (and on OpenStreetMap).
 
 ## Contributing
 General notes
